@@ -12,11 +12,11 @@ class AccountMove(models.Model):
         domain = super(AccountMove, self)._get_l10n_latam_documents_domain()
         if self.country_code == 'EC':
             if self.move_type in ['out_invoice']:
-                domain.extend([('l10n_ec_jasoft_type', '=', 'out_invoice')])
+                domain.extend([('l10n_ec_type', '=', 'out_invoice')])
             if self.move_type in ['out_refund']:
-                domain.extend([('l10n_ec_jasoft_type', '=', 'out_refund')])
+                domain.extend([('l10n_ec_type', '=', 'out_refund')])
             if self.move_type in ['in_invoice']:
-                domain.extend([('l10n_ec_jasoft_type', '=', 'in_invoice')])
+                domain.extend([('l10n_ec_type', '=', 'in_invoice')])
             if self.move_type in ['in_refund']:
-                domain.extend([('l10n_ec_jasoft_type', '=', 'in_refund')])
+                domain.extend([('l10n_ec_type', '=', 'in_refund')])
         return domain

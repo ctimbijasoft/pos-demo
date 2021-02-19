@@ -11,7 +11,7 @@ class ResPartnerBank(models.Model):
         ('checking', 'Checking Account'),
         ]
     
-    l10n_ec_jasoft_account_type = fields.Selection(
+    l10n_ec_account_type = fields.Selection(
         _ACCOUNT_TYPE,
         string='Type',
         default='checking',
@@ -29,7 +29,7 @@ class ResPartnerBank(models.Model):
     def _compute_acc_type(self):
         for bank in self:
             if bank.company_id.country_code == 'EC':
-                bank.acc_type = bank.l10n_ec_jasoft_account_type
+                bank.acc_type = bank.l10n_ec_account_type
             else:
                 super(ResPartnerBank, self)._compute_acc_type()
     

@@ -23,16 +23,16 @@ class L10nLatamDocumentType(models.Model):
         ('third', 'Issued by Third Parties')
     ]
 
-    l10n_ec_jasoft_type = fields.Selection(
+    l10n_ec_type = fields.Selection(
         _EC_TYPE, 
         string='Ecuadorian Type',
         help='Indicates the aplicability of the document',
         )
-    l10n_ec_jasoft_require_vat = fields.Boolean(
+    l10n_ec_require_vat = fields.Boolean(
         string='Require Vat Number', 
         help='Force the registration of customer vat number on invoice validation',
         )
-    l10n_ec_jasoft_authorization = fields.Selection(
+    l10n_ec_authorization = fields.Selection(
         _EC_AUTHORIZATION,
         default='none',
         string='Authorization',

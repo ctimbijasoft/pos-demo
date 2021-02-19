@@ -12,9 +12,9 @@
             <field name="sequence">9</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">421</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">421</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -49,9 +49,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">412</field>
-            <field name="l10n_ec_jasoft_code_applied">422</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">412</field>
+            <field name="l10n_ec_code_applied">422</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -86,8 +86,8 @@
             <field name="sequence">19</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">415</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">415</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -120,8 +120,8 @@
             <field name="sequence">20</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">416</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">416</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -154,8 +154,8 @@
             <field name="sequence">20</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">413</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">413</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -188,8 +188,8 @@
             <field name="sequence">20</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">414</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">414</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -222,8 +222,8 @@
             <field name="sequence">21</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">417</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">417</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -256,8 +256,8 @@
             <field name="sequence">21</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">418</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">418</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -290,8 +290,8 @@
             <field name="sequence">40</field>
             <field name="amount">0.0</field>
             <field name="description">IVA EXENTO</field>
-            <field name="l10n_ec_jasoft_code_base">419</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">419</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat_excempt"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -324,9 +324,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">444</field>
-            <field name="l10n_ec_jasoft_code_applied">454</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">444</field>
+            <field name="l10n_ec_code_applied">454</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -360,9 +360,9 @@
             <field name="sequence">10</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">444</field>
-            <field name="l10n_ec_jasoft_code_applied">454</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">444</field>
+            <field name="l10n_ec_code_applied">454</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -396,9 +396,9 @@
             <field name="sequence">10</field>
             <field name="amount">0.0</field>
             <field name="description">IVA EXENTO</field>
-            <field name="l10n_ec_jasoft_code_base">444</field>
-            <field name="l10n_ec_jasoft_code_applied"></field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">444</field>
+            <field name="l10n_ec_code_applied"></field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat_excempt"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -432,9 +432,9 @@
             <field name="sequence">10</field>
             <field name="amount">0.0</field>
             <field name="description">NO OBJETO DE IVA</field>
-            <field name="l10n_ec_jasoft_code_base">444</field>
-            <field name="l10n_ec_jasoft_code_applied"></field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">444</field>
+            <field name="l10n_ec_code_applied"></field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat_not_charged"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -469,9 +469,9 @@
             <field name="sequence">9</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">510</field>
-            <field name="l10n_ec_jasoft_code_applied">520</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">510</field>
+            <field name="l10n_ec_code_applied">520</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -506,9 +506,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">511</field>
-            <field name="l10n_ec_jasoft_code_applied">521</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">511</field>
+            <field name="l10n_ec_code_applied">521</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -543,9 +543,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">512</field>
-            <field name="l10n_ec_jasoft_code_applied">522</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">512</field>
+            <field name="l10n_ec_code_applied">522</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -578,9 +578,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">513</field>
-            <field name="l10n_ec_jasoft_code_applied">523</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">513</field>
+            <field name="l10n_ec_code_applied">523</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -615,9 +615,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">514</field>
-            <field name="l10n_ec_jasoft_code_applied">524</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">514</field>
+            <field name="l10n_ec_code_applied">524</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -652,9 +652,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">515</field>
-            <field name="l10n_ec_jasoft_code_applied">525</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">515</field>
+            <field name="l10n_ec_code_applied">525</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -689,8 +689,8 @@
             <field name="sequence">20</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">517</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">517</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -724,8 +724,8 @@
             <field name="sequence">20</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">516</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">516</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -758,8 +758,8 @@
             <field name="sequence">20</field>
             <field name="amount">0.0</field>
             <field name="description">IVA 0%</field>
-            <field name="l10n_ec_jasoft_code_base">518</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">518</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat0"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -792,8 +792,8 @@
             <field name="sequence">30</field>
             <field name="amount">0.0</field>
             <field name="description">NO OBJETO DE IVA</field>
-            <field name="l10n_ec_jasoft_code_base">541</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">541</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat_not_charged"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -826,8 +826,8 @@
             <field name="sequence">40</field>
             <field name="amount">0.0</field>
             <field name="description">IVA EXENTO</field>
-            <field name="l10n_ec_jasoft_code_base">542</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">542</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat_excempt"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -860,9 +860,9 @@
             <field name="sequence">10</field>
             <field name="amount">12.0</field>
             <field name="description">IVA 12%</field>
-            <field name="l10n_ec_jasoft_code_base">545</field>
-            <field name="l10n_ec_jasoft_code_applied">555</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">545</field>
+            <field name="l10n_ec_code_applied">555</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_vat12"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {

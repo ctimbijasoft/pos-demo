@@ -6,11 +6,11 @@
 			<field name="name">Nota o Boleta de Venta</field>
 			<field name="report_name">Nota de Venta</field>
 			<field name="doc_code_prefix">Not.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">25</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -19,11 +19,11 @@
 			<field name="name">Retención de Venta</field>
 			<field name="report_name">Comprobante de Retención</field>
 			<field name="doc_code_prefix">Ret.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">65</field>
 			<field name="internal_type"></field>
-			<field name="l10n_ec_jasoft_type">out_withhold</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">out_withhold</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -32,11 +32,11 @@
 			<field name="name">Factura de Venta</field>
 			<field name="report_name">Factura</field>
 			<field name="doc_code_prefix">Fact.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">15</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">out_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">out_invoice</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 		
@@ -45,11 +45,11 @@
 			<field name="name">Factura de Compra</field>
 			<field name="report_name">Factura</field>
 			<field name="doc_code_prefix">Fact.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">10</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -60,9 +60,9 @@
 			<field name="doc_code_prefix">GuíRe.</field>
 			<field name="sequence">10</field>
 			<field name="internal_type"></field>
-			<field name="l10n_ec_jasoft_type">out_waybill</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">out_waybill</field>
+			<field name="l10n_ec_require_vat">True</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -71,11 +71,11 @@
 			<field name="name">Liquidación de Compra</field>
 			<field name="report_name">Liquidación de Compra</field>
 			<field name="doc_code_prefix">LiqCo.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">30</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -84,11 +84,11 @@
 			<field name="name">Nota de Crédito en Compras</field>
 			<field name="report_name">Nota de Crédito</field>
 			<field name="doc_code_prefix">NotCr.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">40</field>
 			<field name="internal_type">credit_note</field>
-			<field name="l10n_ec_jasoft_type">in_refund</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_refund</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -97,11 +97,11 @@
 			<field name="name">Nota de Crédito en Ventas</field>
 			<field name="report_name">Nota de Crédito</field>
 			<field name="doc_code_prefix">NotCr.</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
+			<field name="l10n_ec_require_vat">True</field>
 			<field name="sequence">45</field>
 			<field name="internal_type">credit_note</field>
-			<field name="l10n_ec_jasoft_type">out_refund</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">out_refund</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -112,8 +112,8 @@
 			<field name="doc_code_prefix">Ret.</field>
 			<field name="sequence">60</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_withhold</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">in_withhold</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -123,7 +123,7 @@
 			<field name="doc_code_prefix">Ent.</field>
 			<field name="sequence">70</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -133,7 +133,7 @@
 			<field name="doc_code_prefix">Tiq.</field>
 			<field name="sequence">80</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -143,7 +143,7 @@
 			<field name="doc_code_prefix">Pas.</field>
 			<field name="sequence">90</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -153,7 +153,7 @@
 			<field name="doc_code_prefix">Fin.</field>		
 			<field name="sequence">100</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -165,7 +165,7 @@
 			<field name="doc_code_prefix">FacExt.</field>
 			<field name="sequence">110</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -176,7 +176,7 @@
 			<field name="doc_code_prefix">DAU</field>	
 			<field name="sequence">120</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -187,7 +187,7 @@
 			<field name="doc_code_prefix">Aprt.</field>
 			<field name="sequence">140</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -196,7 +196,7 @@
 			<field name="name">Documentos por Servicios Administrativos emitidos por Inst. del Estado</field>
 			<field name="doc_code_prefix">Gov.</field>
 			<field name="sequence">150</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -207,7 +207,7 @@
 			<field name="doc_code_prefix">Aér.</field>	
 			<field name="sequence">160</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -217,7 +217,7 @@
 			<field name="doc_code_prefix">RECAP</field>
 			<field name="sequence">170</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -228,7 +228,7 @@
 			<field name="doc_code_prefix">NotCrTC</field>
 			<field name="sequence">180</field>
 			<field name="internal_type">credit_note</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -239,7 +239,7 @@
 			<field name="doc_code_prefix">NotDbTC</field>
 			<field name="sequence">190</field>
 			<field name="internal_type">debit_note</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -249,7 +249,7 @@
 			<field name="name">Documento agente de Retención Presuntiva</field>
 			<field name="sequence">210</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -259,7 +259,7 @@
 			<field name="name">Liquidación para Explotación y Exploración de Hidrocarburos</field>
 			<field name="sequence">220</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -270,7 +270,7 @@
 			<field name="doc_code_prefix">Contrib.</field>
 			<field name="sequence">230</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -280,7 +280,7 @@
 			<field name="doc_code_prefix">LiqAseg.</field>
 			<field name="sequence">240</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -291,8 +291,8 @@
 			<field name="doc_code_prefix">NotCr.</field>
 			<field name="sequence">250</field>
 			<field name="internal_type">credit_note</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -303,8 +303,8 @@
 			<field name="doc_code_prefix">NotDb.</field>
 			<field name="sequence">260</field>
 			<field name="internal_type">debit_note</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -313,7 +313,7 @@
 			<field name="name">Proveedor Directo de Exportador Bajo Régimen Especial</field>
 			<field name="sequence">270</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -323,7 +323,7 @@
 			<field name="name">A Inst. Estado y Empr. Públicas que percibe ingreso exento de Imp. Renta</field>
 			<field name="sequence">280</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -333,7 +333,7 @@
 			<field name="name">N/C A Inst. Estado y Empr. Públicas que percibe ingreso exento de Imp. Renta</field>
 			<field name="sequence">290</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -343,7 +343,7 @@
 			<field name="name">N/D A Inst. Estado y Empr. Públicas que percibe ingreso exento de Imp. Renta</field>
 			<field name="sequence">300</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
+			<field name="l10n_ec_type">in_invoice</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 			<field name="active">False</field>
@@ -356,9 +356,9 @@
 			<field name="doc_code_prefix">NotDb.</field>
 			<field name="sequence">50</field>
 			<field name="internal_type">debit_note</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_require_vat">True</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -369,9 +369,9 @@
 			<field name="doc_code_prefix">NotDb.</field>
 			<field name="sequence">55</field>
 			<field name="internal_type">debit_note</field>
-			<field name="l10n_ec_jasoft_type">out_invoice</field>
-			<field name="l10n_ec_jasoft_require_vat">True</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">out_invoice</field>
+			<field name="l10n_ec_require_vat">True</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -382,8 +382,8 @@
 			<field name="doc_code_prefix">LiqCo.</field>
 			<field name="sequence">205</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -394,8 +394,8 @@
 			<field name="doc_code_prefix">Fact.</field>
 			<field name="sequence">205</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">third</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">third</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -406,8 +406,8 @@
 			<field name="doc_code_prefix">Fact.</field>
 			<field name="sequence">205</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">out_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">out_invoice</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -418,8 +418,8 @@
 			<field name="doc_code_prefix">Liq.</field>
 			<field name="sequence">210</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">own</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">own</field>
 			<field name="country_id" ref="base.ec"/>
 			<field name="active">False</field>
 		</record>
@@ -431,8 +431,8 @@
 			<field name="doc_code_prefix">AntEmp.</field>
 			<field name="sequence">900</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">none</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">none</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 
@@ -443,8 +443,8 @@
 			<field name="doc_code_prefix">SinDoc</field>
 			<field name="sequence">910</field>
 			<field name="internal_type">invoice</field>
-			<field name="l10n_ec_jasoft_type">in_invoice</field>
-			<field name="l10n_ec_jasoft_authorization">none</field>
+			<field name="l10n_ec_type">in_invoice</field>
+			<field name="l10n_ec_authorization">none</field>
 			<field name="country_id" ref="base.ec"/>
 		</record>
 	</data>	

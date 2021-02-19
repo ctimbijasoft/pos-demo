@@ -11,10 +11,10 @@
             <field name="sequence">70</field>
             <field name="amount">-10.0</field>
             <field name="description">303</field>
-            <field name="l10n_ec_jasoft_code_applied">353</field>
-            <field name="l10n_ec_jasoft_code_base">303</field>
-            <field name="l10n_ec_jasoft_code_ats">303</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">353</field>
+            <field name="l10n_ec_code_base">303</field>
+            <field name="l10n_ec_code_ats">303</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -48,10 +48,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">304</field>
-            <field name="l10n_ec_jasoft_code_applied">354</field>
-            <field name="l10n_ec_jasoft_code_base">304</field>
-            <field name="l10n_ec_jasoft_code_ats">304</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">354</field>
+            <field name="l10n_ec_code_base">304</field>
+            <field name="l10n_ec_code_ats">304</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -86,10 +86,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">304</field>
-            <field name="l10n_ec_jasoft_code_applied">354</field>
-            <field name="l10n_ec_jasoft_code_base">304</field>
-            <field name="l10n_ec_jasoft_code_ats">304A</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">354</field>
+            <field name="l10n_ec_code_base">304</field>
+            <field name="l10n_ec_code_ats">304A</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -123,10 +123,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">304</field>
-            <field name="l10n_ec_jasoft_code_applied">354</field>
-            <field name="l10n_ec_jasoft_code_base">304</field>
-            <field name="l10n_ec_jasoft_code_ats">304B</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">354</field>
+            <field name="l10n_ec_code_base">304</field>
+            <field name="l10n_ec_code_ats">304B</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -160,10 +160,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">304</field>
-            <field name="l10n_ec_jasoft_code_applied">354</field>
-            <field name="l10n_ec_jasoft_code_base">304</field>
-            <field name="l10n_ec_jasoft_code_ats">304C</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">354</field>
+            <field name="l10n_ec_code_base">304</field>
+            <field name="l10n_ec_code_ats">304C</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -197,10 +197,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">304</field>
-            <field name="l10n_ec_jasoft_code_applied">354</field>
-            <field name="l10n_ec_jasoft_code_base">304</field>
-            <field name="l10n_ec_jasoft_code_ats">304D</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">354</field>
+            <field name="l10n_ec_code_base">304</field>
+            <field name="l10n_ec_code_ats">304D</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -234,10 +234,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">304</field>
-            <field name="l10n_ec_jasoft_code_applied">354</field>
-            <field name="l10n_ec_jasoft_code_base">304</field>
-            <field name="l10n_ec_jasoft_code_ats">304E</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">354</field>
+            <field name="l10n_ec_code_base">304</field>
+            <field name="l10n_ec_code_ats">304E</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -271,10 +271,10 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">307</field>
-            <field name="l10n_ec_jasoft_code_applied">357</field>
-            <field name="l10n_ec_jasoft_code_base">307</field>
-            <field name="l10n_ec_jasoft_code_ats">307</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">357</field>
+            <field name="l10n_ec_code_base">307</field>
+            <field name="l10n_ec_code_ats">307</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -308,10 +308,10 @@
             <field name="sequence">70</field>
             <field name="amount">-10.0</field>
             <field name="description">308</field>
-            <field name="l10n_ec_jasoft_code_applied">358</field>
-            <field name="l10n_ec_jasoft_code_base">308</field>
-            <field name="l10n_ec_jasoft_code_ats">308</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">358</field>
+            <field name="l10n_ec_code_base">308</field>
+            <field name="l10n_ec_code_ats">308</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -345,10 +345,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.75</field>
             <field name="description">309</field>
-            <field name="l10n_ec_jasoft_code_applied">359</field>
-            <field name="l10n_ec_jasoft_code_base">309</field>
-            <field name="l10n_ec_jasoft_code_ats">309</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">359</field>
+            <field name="l10n_ec_code_base">309</field>
+            <field name="l10n_ec_code_ats">309</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -382,10 +382,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">310</field>
-            <field name="l10n_ec_jasoft_code_applied">360</field>
-            <field name="l10n_ec_jasoft_code_base">310</field>
-            <field name="l10n_ec_jasoft_code_ats">310</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">360</field>
+            <field name="l10n_ec_code_base">310</field>
+            <field name="l10n_ec_code_ats">310</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -419,10 +419,10 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">311</field>
-            <field name="l10n_ec_jasoft_code_applied">361</field>
-            <field name="l10n_ec_jasoft_code_base">311</field>
-            <field name="l10n_ec_jasoft_code_ats">311</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">361</field>
+            <field name="l10n_ec_code_base">311</field>
+            <field name="l10n_ec_code_ats">311</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -456,10 +456,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.75</field>
             <field name="description">312</field>
-            <field name="l10n_ec_jasoft_code_applied">362</field>
-            <field name="l10n_ec_jasoft_code_base">312</field>
-            <field name="l10n_ec_jasoft_code_ats">312</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">362</field>
+            <field name="l10n_ec_code_base">312</field>
+            <field name="l10n_ec_code_ats">312</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -493,10 +493,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">312</field>
-            <field name="l10n_ec_jasoft_code_applied">362</field>
-            <field name="l10n_ec_jasoft_code_base">312</field>
-            <field name="l10n_ec_jasoft_code_ats">312A</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">362</field>
+            <field name="l10n_ec_code_base">312</field>
+            <field name="l10n_ec_code_ats">312A</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -530,10 +530,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">314</field>
-            <field name="l10n_ec_jasoft_code_applied">364</field>
-            <field name="l10n_ec_jasoft_code_base">314</field>
-            <field name="l10n_ec_jasoft_code_ats">314A</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">364</field>
+            <field name="l10n_ec_code_base">314</field>
+            <field name="l10n_ec_code_ats">314A</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -567,10 +567,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">314</field>
-            <field name="l10n_ec_jasoft_code_applied">364</field>
-            <field name="l10n_ec_jasoft_code_base">314</field>
-            <field name="l10n_ec_jasoft_code_ats">314B</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">364</field>
+            <field name="l10n_ec_code_base">314</field>
+            <field name="l10n_ec_code_ats">314B</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -604,10 +604,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">314</field>
-            <field name="l10n_ec_jasoft_code_applied">364</field>
-            <field name="l10n_ec_jasoft_code_base">314</field>
-            <field name="l10n_ec_jasoft_code_ats">314C</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">364</field>
+            <field name="l10n_ec_code_base">314</field>
+            <field name="l10n_ec_code_ats">314C</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -641,10 +641,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">314</field>
-            <field name="l10n_ec_jasoft_code_applied">364</field>
-            <field name="l10n_ec_jasoft_code_base">314</field>
-            <field name="l10n_ec_jasoft_code_ats">314D</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">364</field>
+            <field name="l10n_ec_code_base">314</field>
+            <field name="l10n_ec_code_ats">314D</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -678,10 +678,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.75</field>
             <field name="description">319</field>
-            <field name="l10n_ec_jasoft_code_applied">369</field>
-            <field name="l10n_ec_jasoft_code_base">319</field>
-            <field name="l10n_ec_jasoft_code_ats">319</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">369</field>
+            <field name="l10n_ec_code_base">319</field>
+            <field name="l10n_ec_code_ats">319</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -715,10 +715,10 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">320</field>
-            <field name="l10n_ec_jasoft_code_applied">370</field>
-            <field name="l10n_ec_jasoft_code_base">320</field>
-            <field name="l10n_ec_jasoft_code_ats">320</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">370</field>
+            <field name="l10n_ec_code_base">320</field>
+            <field name="l10n_ec_code_ats">320</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -752,10 +752,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.75</field>
             <field name="description">322</field>
-            <field name="l10n_ec_jasoft_code_applied">372</field>
-            <field name="l10n_ec_jasoft_code_base">322</field>
-            <field name="l10n_ec_jasoft_code_ats">322</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">372</field>
+            <field name="l10n_ec_code_base">322</field>
+            <field name="l10n_ec_code_ats">322</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -789,11 +789,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -827,11 +827,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323M</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323M</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -865,11 +865,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323N</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323N</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -903,11 +903,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323O</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323O</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -941,11 +941,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323P</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323P</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -979,11 +979,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">32300</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">32300</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1018,11 +1018,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323A</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1056,11 +1056,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323B1</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323B1</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1094,11 +1094,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323E</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1132,11 +1132,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323F</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1170,11 +1170,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323G</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323G</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1208,11 +1208,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323H</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323H</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1246,11 +1246,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323I</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323I</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1284,11 +1284,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323Q</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323Q</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1322,11 +1322,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">323</field>
-            <field name="l10n_ec_jasoft_code_applied">373</field>
-            <field name="l10n_ec_jasoft_code_base">323</field>
-            <field name="l10n_ec_jasoft_code_ats">323R</field>
+            <field name="l10n_ec_code_applied">373</field>
+            <field name="l10n_ec_code_base">323</field>
+            <field name="l10n_ec_code_ats">323R</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1360,11 +1360,11 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">324</field>
-            <field name="l10n_ec_jasoft_code_applied">374</field>
-            <field name="l10n_ec_jasoft_code_base">324</field>
-            <field name="l10n_ec_jasoft_code_ats">324A</field>
+            <field name="l10n_ec_code_applied">374</field>
+            <field name="l10n_ec_code_base">324</field>
+            <field name="l10n_ec_code_ats">324A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1398,11 +1398,11 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">324</field>
-            <field name="l10n_ec_jasoft_code_applied">374</field>
-            <field name="l10n_ec_jasoft_code_base">324</field>
-            <field name="l10n_ec_jasoft_code_ats">324B</field>
+            <field name="l10n_ec_code_applied">374</field>
+            <field name="l10n_ec_code_base">324</field>
+            <field name="l10n_ec_code_ats">324B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1436,11 +1436,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">325</field>
-            <field name="l10n_ec_jasoft_code_applied">375</field>
-            <field name="l10n_ec_jasoft_code_base">325</field>
-            <field name="l10n_ec_jasoft_code_ats">325</field>
+            <field name="l10n_ec_code_applied">375</field>
+            <field name="l10n_ec_code_base">325</field>
+            <field name="l10n_ec_code_ats">325</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1474,11 +1474,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">325</field>
-            <field name="l10n_ec_jasoft_code_applied">375</field>
-            <field name="l10n_ec_jasoft_code_base">325</field>
-            <field name="l10n_ec_jasoft_code_ats">325A</field>
+            <field name="l10n_ec_code_applied">375</field>
+            <field name="l10n_ec_code_base">325</field>
+            <field name="l10n_ec_code_ats">325A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1512,11 +1512,11 @@
             <field name="sequence">70</field>
             <field name="amount">-100.0</field>
             <field name="description">326</field>
-            <field name="l10n_ec_jasoft_code_applied">376</field>
-            <field name="l10n_ec_jasoft_code_base">326</field>
-            <field name="l10n_ec_jasoft_code_ats">326</field>
+            <field name="l10n_ec_code_applied">376</field>
+            <field name="l10n_ec_code_base">326</field>
+            <field name="l10n_ec_code_ats">326</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1550,11 +1550,11 @@
             <field name="sequence">70</field>
             <field name="amount">-13.0</field>
             <field name="description">327</field>
-            <field name="l10n_ec_jasoft_code_applied">377</field>
-            <field name="l10n_ec_jasoft_code_base">327</field>
-            <field name="l10n_ec_jasoft_code_ats">327</field>
+            <field name="l10n_ec_code_applied">377</field>
+            <field name="l10n_ec_code_base">327</field>
+            <field name="l10n_ec_code_ats">327</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1588,11 +1588,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">328</field>
-            <field name="l10n_ec_jasoft_code_applied">378</field>
-            <field name="l10n_ec_jasoft_code_base">328</field>
-            <field name="l10n_ec_jasoft_code_ats">328</field>
+            <field name="l10n_ec_code_applied">378</field>
+            <field name="l10n_ec_code_base">328</field>
+            <field name="l10n_ec_code_ats">328</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1626,11 +1626,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">329</field>
-            <field name="l10n_ec_jasoft_code_applied">379</field>
-            <field name="l10n_ec_jasoft_code_base">329</field>
-            <field name="l10n_ec_jasoft_code_ats">329</field>
+            <field name="l10n_ec_code_applied">379</field>
+            <field name="l10n_ec_code_base">329</field>
+            <field name="l10n_ec_code_ats">329</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1664,11 +1664,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">330</field>
-            <field name="l10n_ec_jasoft_code_applied">380</field>
-            <field name="l10n_ec_jasoft_code_base">330</field>
-            <field name="l10n_ec_jasoft_code_ats">330</field>
+            <field name="l10n_ec_code_applied">380</field>
+            <field name="l10n_ec_code_base">330</field>
+            <field name="l10n_ec_code_ats">330</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1702,10 +1702,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">331</field>
-            <field name="l10n_ec_jasoft_code_base">331</field>
-            <field name="l10n_ec_jasoft_code_ats">331</field>
+            <field name="l10n_ec_code_base">331</field>
+            <field name="l10n_ec_code_ats">331</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1737,9 +1737,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1771,9 +1771,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332A</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332A</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1805,9 +1805,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332B</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332B</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1839,9 +1839,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332C</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332C</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1873,9 +1873,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332D</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332D</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1907,10 +1907,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332E</field>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1943,10 +1943,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332F</field>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -1978,9 +1978,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332G</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332G</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2012,10 +2012,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332H</field>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332H</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2047,9 +2047,9 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">332</field>
-            <field name="l10n_ec_jasoft_code_base">332</field>
-            <field name="l10n_ec_jasoft_code_ats">332I</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">332</field>
+            <field name="l10n_ec_code_ats">332I</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2081,11 +2081,11 @@
             <field name="sequence">70</field>
             <field name="amount">-0.2</field>
             <field name="description">333</field>
-            <field name="l10n_ec_jasoft_code_applied">383</field>
-            <field name="l10n_ec_jasoft_code_base">333</field>
-            <field name="l10n_ec_jasoft_code_ats">333</field>
+            <field name="l10n_ec_code_applied">383</field>
+            <field name="l10n_ec_code_base">333</field>
+            <field name="l10n_ec_code_ats">333</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2119,11 +2119,11 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">334</field>
-            <field name="l10n_ec_jasoft_code_applied">384</field>
-            <field name="l10n_ec_jasoft_code_base">334</field>
-            <field name="l10n_ec_jasoft_code_ats">334</field>
+            <field name="l10n_ec_code_applied">384</field>
+            <field name="l10n_ec_code_base">334</field>
+            <field name="l10n_ec_code_ats">334</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2157,11 +2157,11 @@
             <field name="sequence">70</field>
             <field name="amount">-15.0</field>
             <field name="description">335</field>
-            <field name="l10n_ec_jasoft_code_applied">385</field>
-            <field name="l10n_ec_jasoft_code_base">335</field>
-            <field name="l10n_ec_jasoft_code_ats">335</field>
+            <field name="l10n_ec_code_applied">385</field>
+            <field name="l10n_ec_code_base">335</field>
+            <field name="l10n_ec_code_ats">335</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2195,11 +2195,11 @@
             <field name="sequence">70</field>
             <field name="amount">-0.2</field>
             <field name="description">336</field>
-            <field name="l10n_ec_jasoft_code_applied">386</field>
-            <field name="l10n_ec_jasoft_code_base">336</field>
-            <field name="l10n_ec_jasoft_code_ats">336</field>
+            <field name="l10n_ec_code_applied">386</field>
+            <field name="l10n_ec_code_base">336</field>
+            <field name="l10n_ec_code_ats">336</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2233,11 +2233,11 @@
             <field name="sequence">70</field>
             <field name="amount">-0.3</field>
             <field name="description">337</field>
-            <field name="l10n_ec_jasoft_code_applied">387</field>
-            <field name="l10n_ec_jasoft_code_base">337</field>
-            <field name="l10n_ec_jasoft_code_ats">337</field>
+            <field name="l10n_ec_code_applied">387</field>
+            <field name="l10n_ec_code_base">337</field>
+            <field name="l10n_ec_code_ats">337</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2271,11 +2271,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">338</field>
-            <field name="l10n_ec_jasoft_code_applied">388</field>
-            <field name="l10n_ec_jasoft_code_base">338</field>
-            <field name="l10n_ec_jasoft_code_ats">338</field>
+            <field name="l10n_ec_code_applied">388</field>
+            <field name="l10n_ec_code_base">338</field>
+            <field name="l10n_ec_code_ats">338</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2309,11 +2309,11 @@
             <field name="sequence">70</field>
             <field name="amount">-100.0</field>
             <field name="description">339</field>
-            <field name="l10n_ec_jasoft_code_applied">389</field>
-            <field name="l10n_ec_jasoft_code_base">339</field>
-            <field name="l10n_ec_jasoft_code_ats">339</field>
+            <field name="l10n_ec_code_applied">389</field>
+            <field name="l10n_ec_code_base">339</field>
+            <field name="l10n_ec_code_ats">339</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2348,11 +2348,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">340</field>
-            <field name="l10n_ec_jasoft_code_applied">390</field>
-            <field name="l10n_ec_jasoft_code_base">340</field>
-            <field name="l10n_ec_jasoft_code_ats">340</field>
+            <field name="l10n_ec_code_applied">390</field>
+            <field name="l10n_ec_code_base">340</field>
+            <field name="l10n_ec_code_ats">340</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2386,11 +2386,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">341</field>
-            <field name="l10n_ec_jasoft_code_applied">391</field>
-            <field name="l10n_ec_jasoft_code_base">341</field>
-            <field name="l10n_ec_jasoft_code_ats">341</field>
+            <field name="l10n_ec_code_applied">391</field>
+            <field name="l10n_ec_code_base">341</field>
+            <field name="l10n_ec_code_ats">341</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2424,11 +2424,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">342</field>
-            <field name="l10n_ec_jasoft_code_applied">392</field>
-            <field name="l10n_ec_jasoft_code_base">342</field>
-            <field name="l10n_ec_jasoft_code_ats">342</field>
+            <field name="l10n_ec_code_applied">392</field>
+            <field name="l10n_ec_code_base">342</field>
+            <field name="l10n_ec_code_ats">342</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2462,10 +2462,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">343</field>
-            <field name="l10n_ec_jasoft_code_applied">393</field>
-            <field name="l10n_ec_jasoft_code_base">343</field>
-            <field name="l10n_ec_jasoft_code_ats">343A</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">393</field>
+            <field name="l10n_ec_code_base">343</field>
+            <field name="l10n_ec_code_ats">343A</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2499,10 +2499,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">343</field>
-            <field name="l10n_ec_jasoft_code_applied">393</field>
-            <field name="l10n_ec_jasoft_code_base">343</field>
-            <field name="l10n_ec_jasoft_code_ats">343B</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">393</field>
+            <field name="l10n_ec_code_base">343</field>
+            <field name="l10n_ec_code_ats">343B</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2536,10 +2536,10 @@
             <field name="sequence">70</field>
             <field name="amount">-2.75</field>
             <field name="description">3440</field>
-            <field name="l10n_ec_jasoft_code_applied">394</field>
-            <field name="l10n_ec_jasoft_code_base">3440</field>
-            <field name="l10n_ec_jasoft_code_ats">3440</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">394</field>
+            <field name="l10n_ec_code_base">3440</field>
+            <field name="l10n_ec_code_ats">3440</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2573,11 +2573,11 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">344</field>
-            <field name="l10n_ec_jasoft_code_applied">394</field>
-            <field name="l10n_ec_jasoft_code_base">344</field>
-            <field name="l10n_ec_jasoft_code_ats">344A</field>
+            <field name="l10n_ec_code_applied">394</field>
+            <field name="l10n_ec_code_base">344</field>
+            <field name="l10n_ec_code_ats">344A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2611,11 +2611,11 @@
             <field name="sequence">70</field>
             <field name="amount">-10.0</field>
             <field name="description">346</field>
-            <field name="l10n_ec_jasoft_code_applied">396</field>
-            <field name="l10n_ec_jasoft_code_base">346</field>
-            <field name="l10n_ec_jasoft_code_ats">346A</field>
+            <field name="l10n_ec_code_applied">396</field>
+            <field name="l10n_ec_code_base">346</field>
+            <field name="l10n_ec_code_ats">346A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2649,10 +2649,10 @@
             <field name="sequence">70</field>
             <field name="amount">-1.75</field>
             <field name="description">346</field>
-            <field name="l10n_ec_jasoft_code_applied">396</field>
-            <field name="l10n_ec_jasoft_code_base">346</field>
-            <field name="l10n_ec_jasoft_code_ats">346</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">396</field>
+            <field name="l10n_ec_code_base">346</field>
+            <field name="l10n_ec_code_ats">346</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2686,10 +2686,10 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">346</field>
-            <field name="l10n_ec_jasoft_code_applied">396</field>
-            <field name="l10n_ec_jasoft_code_base">346</field>
-            <field name="l10n_ec_jasoft_code_ats">347</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">396</field>
+            <field name="l10n_ec_code_base">346</field>
+            <field name="l10n_ec_code_ats">347</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2723,11 +2723,11 @@
             <field name="sequence">70</field>
             <field name="amount">-10.0</field>
             <field name="description">346</field>
-            <field name="l10n_ec_jasoft_code_applied">396</field>
-            <field name="l10n_ec_jasoft_code_base">346</field>
-            <field name="l10n_ec_jasoft_code_ats">348</field>
+            <field name="l10n_ec_code_applied">396</field>
+            <field name="l10n_ec_code_base">346</field>
+            <field name="l10n_ec_code_ats">348</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2761,11 +2761,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">346</field>
-            <field name="l10n_ec_jasoft_code_applied">396</field>
-            <field name="l10n_ec_jasoft_code_base">346</field>
-            <field name="l10n_ec_jasoft_code_ats">349</field>
+            <field name="l10n_ec_code_applied">396</field>
+            <field name="l10n_ec_code_base">346</field>
+            <field name="l10n_ec_code_ats">349</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2799,11 +2799,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_ats">500</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_ats">500</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2837,11 +2837,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_ats">500</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_ats">500</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2875,11 +2875,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_ats">500</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_ats">500</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2913,10 +2913,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_ats">501</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_ats">501</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2950,10 +2950,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_ats">501</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_ats">501</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -2987,11 +2987,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_ats">501</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_ats">501</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3025,10 +3025,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_ats">502</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_ats">502</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3062,10 +3062,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_ats">502</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_ats">502</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3099,11 +3099,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_ats">502</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_ats">502</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3137,11 +3137,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_ats">503</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_ats">503</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3175,11 +3175,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_ats">503</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_ats">503</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3213,11 +3213,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_ats">503</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_ats">503</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3251,10 +3251,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">405</field>
-            <field name="l10n_ec_jasoft_code_base">405</field>
-            <field name="l10n_ec_jasoft_code_ats">504</field>
+            <field name="l10n_ec_code_base">405</field>
+            <field name="l10n_ec_code_ats">504</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3286,10 +3286,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">416</field>
-            <field name="l10n_ec_jasoft_code_base">416</field>
-            <field name="l10n_ec_jasoft_code_ats">504</field>
+            <field name="l10n_ec_code_base">416</field>
+            <field name="l10n_ec_code_ats">504</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3321,11 +3321,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">406</field>
-            <field name="l10n_ec_jasoft_code_applied">456</field>
-            <field name="l10n_ec_jasoft_code_base">406</field>
-            <field name="l10n_ec_jasoft_code_ats">504A</field>
+            <field name="l10n_ec_code_applied">456</field>
+            <field name="l10n_ec_code_base">406</field>
+            <field name="l10n_ec_code_ats">504A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3359,11 +3359,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">417</field>
-            <field name="l10n_ec_jasoft_code_applied">467</field>
-            <field name="l10n_ec_jasoft_code_base">417</field>
-            <field name="l10n_ec_jasoft_code_ats">504A</field>
+            <field name="l10n_ec_code_applied">467</field>
+            <field name="l10n_ec_code_base">417</field>
+            <field name="l10n_ec_code_ats">504A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3397,11 +3397,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">404</field>
-            <field name="l10n_ec_jasoft_code_applied">454</field>
-            <field name="l10n_ec_jasoft_code_base">404</field>
-            <field name="l10n_ec_jasoft_code_ats">504B</field>
+            <field name="l10n_ec_code_applied">454</field>
+            <field name="l10n_ec_code_base">404</field>
+            <field name="l10n_ec_code_ats">504B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3435,11 +3435,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">415</field>
-            <field name="l10n_ec_jasoft_code_base">415</field>
-            <field name="l10n_ec_jasoft_code_applied">465</field>
-            <field name="l10n_ec_jasoft_code_ats">504B</field>
+            <field name="l10n_ec_code_base">415</field>
+            <field name="l10n_ec_code_applied">465</field>
+            <field name="l10n_ec_code_ats">504B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3473,11 +3473,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">404</field>
-            <field name="l10n_ec_jasoft_code_base">404</field>
-            <field name="l10n_ec_jasoft_code_applied">454</field>
-            <field name="l10n_ec_jasoft_code_ats">504C</field>
+            <field name="l10n_ec_code_base">404</field>
+            <field name="l10n_ec_code_applied">454</field>
+            <field name="l10n_ec_code_ats">504C</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3511,11 +3511,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">415</field>
-            <field name="l10n_ec_jasoft_code_base">415</field>
-            <field name="l10n_ec_jasoft_code_applied">465</field>
-            <field name="l10n_ec_jasoft_code_ats">504C</field>
+            <field name="l10n_ec_code_base">415</field>
+            <field name="l10n_ec_code_applied">465</field>
+            <field name="l10n_ec_code_ats">504C</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3549,11 +3549,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">407</field>
-            <field name="l10n_ec_jasoft_code_base">407</field>
-            <field name="l10n_ec_jasoft_code_applied">457</field>
-            <field name="l10n_ec_jasoft_code_ats">504D</field>
+            <field name="l10n_ec_code_base">407</field>
+            <field name="l10n_ec_code_applied">457</field>
+            <field name="l10n_ec_code_ats">504D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3587,11 +3587,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">418</field>
-            <field name="l10n_ec_jasoft_code_base">418</field>
-            <field name="l10n_ec_jasoft_code_applied">468</field>
-            <field name="l10n_ec_jasoft_code_ats">504D</field>
+            <field name="l10n_ec_code_base">418</field>
+            <field name="l10n_ec_code_applied">468</field>
+            <field name="l10n_ec_code_ats">504D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3625,11 +3625,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">427</field>
-            <field name="l10n_ec_jasoft_code_base">427</field>
-            <field name="l10n_ec_jasoft_code_applied">477</field>
-            <field name="l10n_ec_jasoft_code_ats">504F</field>
+            <field name="l10n_ec_code_base">427</field>
+            <field name="l10n_ec_code_applied">477</field>
+            <field name="l10n_ec_code_ats">504F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3663,11 +3663,11 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">425</field>
-            <field name="l10n_ec_jasoft_code_base">425</field>
-            <field name="l10n_ec_jasoft_code_applied">475</field>
-            <field name="l10n_ec_jasoft_code_ats">504G</field>
+            <field name="l10n_ec_code_base">425</field>
+            <field name="l10n_ec_code_applied">475</field>
+            <field name="l10n_ec_code_ats">504G</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3701,11 +3701,11 @@
             <field name="sequence">70</field>
             <field name="amount">-13.0</field>
             <field name="description">428</field>
-            <field name="l10n_ec_jasoft_code_base">428</field>
-            <field name="l10n_ec_jasoft_code_applied">478</field>
-            <field name="l10n_ec_jasoft_code_ats">504H</field>
+            <field name="l10n_ec_code_base">428</field>
+            <field name="l10n_ec_code_applied">478</field>
+            <field name="l10n_ec_code_ats">504H</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3740,11 +3740,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3778,11 +3778,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3816,11 +3816,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3854,11 +3854,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505A</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3892,11 +3892,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505A</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3930,11 +3930,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505A</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -3968,11 +3968,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505B</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4006,11 +4006,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505B</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4044,11 +4044,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505B</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4082,11 +4082,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505C</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505C</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4121,11 +4121,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505C</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505C</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4159,11 +4159,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505C</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505C</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4197,11 +4197,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505D</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4235,11 +4235,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505D</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4273,11 +4273,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505D</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4311,11 +4311,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505E</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4349,11 +4349,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505E</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4387,11 +4387,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505E</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4425,11 +4425,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">505F</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">505F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4463,11 +4463,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">505F</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">505F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4501,11 +4501,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">505F</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">505F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4539,10 +4539,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">509</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">509</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4576,10 +4576,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">509</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">509</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4613,11 +4613,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">509</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">509</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4651,11 +4651,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">509A</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">509A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4689,11 +4689,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">509A</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">509A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4727,11 +4727,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">509A</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">509A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4765,11 +4765,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">510</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">510</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4803,11 +4803,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">510</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">510</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4841,11 +4841,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">510</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">510</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4879,10 +4879,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">511</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">511</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4916,11 +4916,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">511</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">511</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4954,11 +4954,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">511</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">511</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -4992,10 +4992,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">512</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">512</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5029,11 +5029,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">512</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">512</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5067,11 +5067,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">512</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">512</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5105,11 +5105,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">513</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">513</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5143,11 +5143,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">513</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">513</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5181,11 +5181,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">513</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">513</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5219,11 +5219,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">513A</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">513A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5257,11 +5257,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">513A</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">513A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5295,11 +5295,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">513A</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">513A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5333,11 +5333,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">514</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">514</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5371,11 +5371,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">514</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">514</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5409,11 +5409,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">514</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">514</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5447,11 +5447,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">515</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">515</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5485,11 +5485,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">515</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">515</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5523,11 +5523,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">515</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">515</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5561,11 +5561,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">516</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">516</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5599,11 +5599,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">516</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">516</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5637,11 +5637,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">516</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">516</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5675,10 +5675,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">517</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">517</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5712,11 +5712,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">517</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">517</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5750,11 +5750,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">517</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">517</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5788,11 +5788,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">518</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">518</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5826,11 +5826,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">518</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">518</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5864,11 +5864,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">518</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">518</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5902,11 +5902,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">519</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">519</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5940,11 +5940,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">519</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">519</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -5978,11 +5978,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">519</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">519</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6016,11 +6016,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6054,11 +6054,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6092,11 +6092,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6130,11 +6130,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520A</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6168,11 +6168,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520A</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6206,11 +6206,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520A</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6244,11 +6244,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520B</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6282,11 +6282,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520B</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6320,11 +6320,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520B</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520B</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6358,10 +6358,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520D</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520D</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6395,11 +6395,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520D</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6433,11 +6433,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520D</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520D</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6471,11 +6471,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520E</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6509,11 +6509,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520E</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6547,11 +6547,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520E</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520E</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6585,11 +6585,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520F</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6623,11 +6623,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520F</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6661,11 +6661,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520F</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520F</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6699,11 +6699,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">520G</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">520G</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6737,11 +6737,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">520G</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">520G</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6775,11 +6775,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">520G</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">520G</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6813,11 +6813,11 @@
             <field name="sequence">70</field>
             <field name="amount">-5.0</field>
             <field name="description">408</field>
-            <field name="l10n_ec_jasoft_code_base">408</field>
-            <field name="l10n_ec_jasoft_code_applied">458</field>
-            <field name="l10n_ec_jasoft_code_ats">521</field>
+            <field name="l10n_ec_code_base">408</field>
+            <field name="l10n_ec_code_applied">458</field>
+            <field name="l10n_ec_code_ats">521</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6852,11 +6852,11 @@
             <field name="sequence">70</field>
             <field name="amount">-5.0</field>
             <field name="description">419</field>
-            <field name="l10n_ec_jasoft_code_base">419</field>
-            <field name="l10n_ec_jasoft_code_applied">469</field>
-            <field name="l10n_ec_jasoft_code_ats">521</field>
+            <field name="l10n_ec_code_base">419</field>
+            <field name="l10n_ec_code_applied">469</field>
+            <field name="l10n_ec_code_ats">521</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6890,11 +6890,11 @@
             <field name="sequence">70</field>
             <field name="amount">-5.0</field>
             <field name="description">429</field>
-            <field name="l10n_ec_jasoft_code_base">429</field>
-            <field name="l10n_ec_jasoft_code_applied">479</field>
-            <field name="l10n_ec_jasoft_code_ats">521</field>
+            <field name="l10n_ec_code_base">429</field>
+            <field name="l10n_ec_code_applied">479</field>
+            <field name="l10n_ec_code_ats">521</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6928,10 +6928,10 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">410</field>
-            <field name="l10n_ec_jasoft_code_base">410</field>
-            <field name="l10n_ec_jasoft_code_applied">460</field>
-            <field name="l10n_ec_jasoft_code_ats">522A</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_base">410</field>
+            <field name="l10n_ec_code_applied">460</field>
+            <field name="l10n_ec_code_ats">522A</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -6965,11 +6965,11 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">409</field>
-            <field name="l10n_ec_jasoft_code_base">409</field>
-            <field name="l10n_ec_jasoft_code_applied">459</field>
-            <field name="l10n_ec_jasoft_code_ats">523A</field>
+            <field name="l10n_ec_code_base">409</field>
+            <field name="l10n_ec_code_applied">459</field>
+            <field name="l10n_ec_code_ats">523A</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7003,10 +7003,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">412</field>
-            <field name="l10n_ec_jasoft_code_base">412</field>
-            <field name="l10n_ec_jasoft_code_ats">524</field>
+            <field name="l10n_ec_code_base">412</field>
+            <field name="l10n_ec_code_ats">524</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7038,10 +7038,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">423</field>
-            <field name="l10n_ec_jasoft_code_base">423</field>
-            <field name="l10n_ec_jasoft_code_ats">524</field>
+            <field name="l10n_ec_code_base">423</field>
+            <field name="l10n_ec_code_ats">524</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7073,10 +7073,10 @@
             <field name="sequence">70</field>
             <field name="amount">0.0</field>
             <field name="description">433</field>
-            <field name="l10n_ec_jasoft_code_base">433</field>
-            <field name="l10n_ec_jasoft_code_ats">524</field>
+            <field name="l10n_ec_code_base">433</field>
+            <field name="l10n_ec_code_ats">524</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7108,11 +7108,11 @@
             <field name="sequence">70</field>
             <field name="amount">-100.0</field>
             <field name="description">411</field>
-            <field name="l10n_ec_jasoft_code_base">411</field>
-            <field name="l10n_ec_jasoft_code_applied">461</field>
-            <field name="l10n_ec_jasoft_code_ats">525</field>
+            <field name="l10n_ec_code_base">411</field>
+            <field name="l10n_ec_code_applied">461</field>
+            <field name="l10n_ec_code_ats">525</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7146,11 +7146,11 @@
             <field name="sequence">70</field>
             <field name="amount">-100.0</field>
             <field name="description">422</field>
-            <field name="l10n_ec_jasoft_code_base">422</field>
-            <field name="l10n_ec_jasoft_code_applied">472</field>
-            <field name="l10n_ec_jasoft_code_ats">525</field>
+            <field name="l10n_ec_code_base">422</field>
+            <field name="l10n_ec_code_applied">472</field>
+            <field name="l10n_ec_code_ats">525</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7184,11 +7184,11 @@
             <field name="sequence">70</field>
             <field name="amount">-100.0</field>
             <field name="description">432</field>
-            <field name="l10n_ec_jasoft_code_base">432</field>
-            <field name="l10n_ec_jasoft_code_applied">482</field>
-            <field name="l10n_ec_jasoft_code_ats">525</field>
+            <field name="l10n_ec_code_base">432</field>
+            <field name="l10n_ec_code_applied">482</field>
+            <field name="l10n_ec_code_ats">525</field>
             <field name="active">False</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7225,7 +7225,7 @@
             <field name="sequence">70</field>
             <field name="amount">-1.0</field>
             <field name="description">1%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7257,7 +7257,7 @@
             <field name="sequence">70</field>
             <field name="amount">-1.75</field>
             <field name="description">1.75%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7289,7 +7289,7 @@
             <field name="sequence">70</field>
             <field name="amount">-2.0</field>
             <field name="description">2%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7321,7 +7321,7 @@
             <field name="sequence">70</field>
             <field name="amount">-2.75</field>
             <field name="description">2.75%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7353,7 +7353,7 @@
             <field name="sequence">70</field>
             <field name="amount">-5.0</field>
             <field name="description">5%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7385,7 +7385,7 @@
             <field name="sequence">70</field>
             <field name="amount">-8.0</field>
             <field name="description">8%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7417,7 +7417,7 @@
             <field name="sequence">70</field>
             <field name="amount">-10.0</field>
             <field name="description">10%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7449,7 +7449,7 @@
             <field name="sequence">70</field>
             <field name="amount">-15.0</field>
             <field name="description">15%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -7481,7 +7481,7 @@
             <field name="sequence">70</field>
             <field name="amount">-22.0</field>
             <field name="description">22%</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_income"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {

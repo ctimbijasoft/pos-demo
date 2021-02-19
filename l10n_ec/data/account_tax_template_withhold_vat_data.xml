@@ -11,8 +11,8 @@
             <field name="sequence">50</field>
             <field name="amount">-10.0</field>
             <field name="description">RET IVA 10%</field>
-            <field name="l10n_ec_jasoft_code_applied">721</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">721</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -44,8 +44,8 @@
             <field name="sequence">50</field>
             <field name="amount">-20.0</field>
             <field name="description">RET IVA 20%</field>
-            <field name="l10n_ec_jasoft_code_applied">723</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">723</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -77,8 +77,8 @@
             <field name="sequence">50</field>
             <field name="amount">-30.0</field>
             <field name="description">RET IVA 30%</field>
-            <field name="l10n_ec_jasoft_code_applied">725</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">725</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -110,8 +110,8 @@
             <field name="sequence">50</field>
             <field name="amount">-50.0</field>
             <field name="description">RET IVA 50%</field>
-            <field name="l10n_ec_jasoft_code_applied">727</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">727</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -143,8 +143,8 @@
             <field name="sequence">50</field>
             <field name="amount">-70.0</field>
             <field name="description">RET IVA 70%</field>
-            <field name="l10n_ec_jasoft_code_applied">729</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">729</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -176,8 +176,8 @@
             <field name="sequence">50</field>
             <field name="amount">-100.0</field>
             <field name="description">RET IVA 100%</field>
-            <field name="l10n_ec_jasoft_code_applied">731</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">731</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -212,8 +212,8 @@
             <field name="sequence">60</field>
             <field name="amount">-10.0</field>
             <field name="description">RET IVA 10%</field>
-            <field name="l10n_ec_jasoft_code_applied">609</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">609</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -245,8 +245,8 @@
             <field name="sequence">60</field>
             <field name="amount">-20.0</field>
             <field name="description">RET IVA 20%</field>
-            <field name="l10n_ec_jasoft_code_applied">609</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">609</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -278,8 +278,8 @@
             <field name="sequence">60</field>
             <field name="amount">-30.0</field>
             <field name="description">RET IVA 30%</field>
-            <field name="l10n_ec_jasoft_code_applied">609</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">609</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -311,8 +311,8 @@
             <field name="sequence">60</field>
             <field name="amount">-50.0</field>
             <field name="description">RET IVA 50%</field>
-            <field name="l10n_ec_jasoft_code_applied">609</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">609</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -344,8 +344,8 @@
             <field name="sequence">60</field>
             <field name="amount">-70.0</field>
             <field name="description">RET IVA 70%</field>
-            <field name="l10n_ec_jasoft_code_applied">609</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">609</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
@@ -377,8 +377,8 @@
             <field name="sequence">60</field>
             <field name="amount">-100.0</field>
             <field name="description">RET IVA 100%</field>
-            <field name="l10n_ec_jasoft_code_applied">609</field>
-            <field name="chart_template_id" ref="l10n_ec_jasoft_ifrs"/>
+            <field name="l10n_ec_code_applied">609</field>
+            <field name="chart_template_id" ref="l10n_ec_ifrs"/>
             <field name="tax_group_id" ref="ec_tax_group_withhold_vat"/>
             <field name="invoice_repartition_line_ids" eval="[(5, 0, 0),
                 (0,0, {
