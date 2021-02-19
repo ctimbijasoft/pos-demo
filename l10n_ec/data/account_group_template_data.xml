@@ -781,11 +781,11 @@
             <field name="parent_id" ref="ec52"/>
         </record>
 
-        <record id="ec520402" model="account.group.template">
+        <record id="ec5205" model="account.group.template">
         	<field name="chart_template_id" ref="l10n_ec_ifrs"/>
-            <field name="code_prefix_start">520402</field>
+            <field name="code_prefix_start">5205</field>
             <field name="name">OTROS</field>
-            <field name="parent_id" ref="ec5204"/>
+            <field name="parent_id" ref="ec52"/>
         </record>
 
     </data>

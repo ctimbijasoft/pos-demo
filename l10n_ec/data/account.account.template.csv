@@ -458,3 +458,6 @@ ec520301,520301,INTERESES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
 ec520302,520302,COMISIONES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
 ec520303,520303,GASTOS DE FINANCIAMIENTO DE ACTIVOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
 ec520304,520304,DIFERENCIA EN CAMBIO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520305,520305,OTROS GASTOS FINANCIEROS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520401,520401,PERDIDA EN INVERSIONES EN ASOCIADAS / SUBSIDIARIAS Y OTRAS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520501,520501,Otros Gastos,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
