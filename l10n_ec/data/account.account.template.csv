@@ -374,3 +374,83 @@ ec52020404,52020404,ALIMENTACION,FALSE,account.data_account_type_expenses,l10n_e
 ec52020405,52020405,OTROS GASTOS DE PLANES DE BENEFICIOS A EMPLEADOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
 ec5202040501,5202040501,IMPUESTO A LA RENTA EMPLEADOS ASUMIDO POR LA EMPRESA,FALSE,account.data_account_type_direct_costs,l10n_ec_ifrs
 ec5202040502,5202040502,TRANSPORTE,FALSE,account.data_account_type_direct_costs,l10n_ec_ifrs
+ec520205,520205,"HONORARIOS, COMISIONES Y DIETAS A PERSONAS NATURALES",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520206,520206,REMUNERACIONES A OTROS TRABAJADORES AUTONOMOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520207,520207,HONORARIOS A EXTRANJEROS POR SERVICIOS OCASIONALES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520208,520208,MANTENIMIENTO Y REPARACIONES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520209,520209,ARRENDAMIENTO OPERATIVO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520210,520210,COMISIONES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520211,520211,PROMOCION Y PUBLICIDAD,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520212,520212,COMBUSTIBLES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520213,520213,LUBRICANTES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520214,520214,SEGUROS Y REASEGUROS (primas y cesiones),FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520215,520215,TRANSPORTE,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520216,520216,"GASTOS DE GESTION (agasajos a accionistas, trabajadores y clientes)",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520217,520217,GASTOS DE VIAJE,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52021801,52021801,AGUA POTABLE,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52021802,52021802,ENERGIA ELECTRICA,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52021803,52021803,TELEFONIA FIJA,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52021804,52021804,TELEFONIA MOVIL,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520219,520219,NOTARIOS Y REGISTRADORES DE LA PROPIEDAD O MERCANTILES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022001,52022001,PATENTE MUNICIPAL,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022002,52022002,1.5X MIL ACTIVOS TOTALES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022003,52022003,CONTRIBUCIONES SUPER CIAS.,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022004,52022004,CAMARA DE COMERCIO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022005,52022005,OTROS IMPUESTOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202210101,5202210101,EDIFICIOS,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210102,5202210102,CONTRUCCIONES EN CURSO,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210103,5202210103,INSTALACIONES,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210104,5202210104,MUEBLES Y ENSERES,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210105,5202210105,MAQUINARIA Y EQUIPO,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210106,5202210106,"NAVES, AERONAVES, BARCAZAS Y SIMILARES",FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210107,5202210107,EQUIPO DE COMPUTACION,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210108,5202210108,"VEHICULOS, EQUIPOS DE TRANSPORTE Y EQUIPO CAMINERO MOVIL",FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210109,5202210109,"OTROS PROPIEDADES, PLANTA Y EQUIPO",FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec5202210110,5202210110,REPUESTOS Y HERRAMIENTAS,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec52022102,52022102,PROPIEDADES DE INVERSION,FALSE,account.data_account_type_depreciation,l10n_ec_ifrs
+ec52022201,52022201,INTANGIBLES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022202,52022202,OTROS ACTIVOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230101,5202230101,EDIFICIOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230102,5202230102,CONTRUCCIONES EN CURSO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230103,5202230103,INSTALACIONES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230104,5202230104,MUEBLES Y ENSERES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230105,5202230105,MAQUINARIA Y EQUIPO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230106,5202230106,"NAVES, AERONAVES, BARCAZAS Y SIMILARES",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230107,5202230107,EQUIPO DE COMPUTACION,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230108,5202230108,"VEHICULOS, EQUIPOS DE TRANSPORTE Y EQUIPO CAMINERO MOVIL",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230109,5202230109,"OTROS PROPIEDADES, PLANTA Y EQUIPO",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202230110,5202230110,REPUESTOS Y HERRAMIENTAS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022302,52022302,INVENTARIOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022303,52022303,INSTRUMENTOS FINANCIEROS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022304,52022304,INTANGIBLES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022305,52022305,CUENTAS POR COBRAR,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022306,52022306,OTROS ACTIVOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520224,520224,GASTOS POR CANTIDADES ANORMALES DE UTILIZACIÓN EN EL PROCESO DE PRODUCCIÓN,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520225,520225,GASTO POR REESTRUCTURACION,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520226,520226,VALOR NETO DE REALIZACION DE INVENTARIOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec520227,520227,GASTO IMPUESTO A LA RENTA (ACTIVOS Y PASIVOS DIFERIDOS),FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022801,52022801,SUMINISTROS DE OFICINA,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022802,52022802,SUMINISTROS Y ARTÍCULOS DE ASEO Y LIMPIEZA,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022803,52022803,ALÍCUOTAS Y CONDOMINIO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022804,52022804,"GUIAS, COURIERS, CORREOS",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022805,52022805,"PEAJES, PARQUEADEROS Y OTROS",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022806,52022806,"CAPACITACIÓN, CURSOS Y SEMINARIOS",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022807,52022807,ALIMENTACIÓN Y REFRIGERIOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022808,52022808,SEGURIDAD Y VIGILANCIA,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022809,52022809,SERVICIOS DE LIMPIEZA,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022810,52022810,OTROS IMPUESTOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022811,52022811,MANTENIMIENTO EQUIPO COMPUTO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022812,52022812,MATERIAL DE OSTEOSINTESIS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022813,52022813,GASTOS DE CONSTRUCCIÓN,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022814,52022814,GASTOS LEGALES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022815,52022815,SERVICIOS CONTRATADOS A TERCEROS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022816,52022816,OTROS GASTOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec52022817,52022817,RECOLECCIÓN RESIDUOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281801,5202281801,GND SUMINISTROS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281802,5202281802,GND GASTOS DE GESTION Y AGASAJOS A CLIENTES Y EMPLEADOS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281803,5202281803,GND RETENCIONES ASUMIDAS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281804,5202281804,GND SOPORTE TECNICO,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281805,5202281805,GND MOVILIZACIÓN NO DEDUCIBLE,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281806,5202281806,"GND IMPUESTOS, INTERESES Y MULTAS",FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281807,5202281807,GND SALIDAS DE DIVISAS,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
+ec5202281808,5202281808,GND OTROS GASTOS NO DEDUCIBLES,FALSE,account.data_account_type_expenses,l10n_ec_ifrs
